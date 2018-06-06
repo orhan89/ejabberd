@@ -31,5 +31,5 @@
   "sqlite3": {:hex, :sqlite3, "1.1.6", "4ea71af0b45908b5f02c9b09e4c87177039ef404f20accb35049cd8924cc417c", [:rebar3], [], "hexpm"},
   "stringprep": {:hex, :stringprep, "1.0.11", "002e6972ab36c35f3dd88c11725014e62608c45a00399c083681879973fa8026", [:rebar3], [{:p1_utils, "1.0.11", [hex: :p1_utils, repo: "hexpm", optional: false]}], "hexpm"},
   "stun": {:hex, :stun, "1.0.21", "087fb20497081927690ef9d70b5bd6f9f4bea256ad758c500842722c0b6bb6ab", [:rebar3], [{:fast_tls, "1.0.21", [hex: :fast_tls, repo: "hexpm", optional: false]}, {:p1_utils, "1.0.11", [hex: :p1_utils, repo: "hexpm", optional: false]}], "hexpm"},
-  "xmpp": {:git, "https://github.com/processone/xmpp.git", "d9582063d89c39a631a32d864ffde3f52bef5b80", [tag: "d958206"]},
+  "xmpp": {:git, "https://github.com/processone/xmpp.git", "477ae8849a8e25e8ce6964c442d5c360edf01d4c", [tag: "477ae88"]},
 }
